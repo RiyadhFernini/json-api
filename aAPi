@@ -1,0 +1,36 @@
+{
+"coord": {
+"lon": 55.403301,
+"lat": 25.357309
+}, 
+"weather":[{
+"id": 800,
+"main": "Clear",
+"description": "sky clear",
+"icon": 01d
+}],
+"base": Sharjah,
+"main":{
+"temp": 26.3,
+"pressure": 1012,
+"temp_min": 26.3,
+"temp_max": 39
+},
+"wind": {
+"speed":2.5,
+"deg": 120
+},
+"clouds":{ 
+"all": 0
+},
+"sys":{
+"typ":1,
+"message": 0.0043,
+"country": UAE,
+"sunrise": 623,
+"sunset": 546,
+},
+"id":AEXX0005,
+"name":"Sharjah",
+"cod": 200
+}
